@@ -13,18 +13,18 @@
 .btn-back {
   background-color: green;
   color: white;
-  border-radius: 30%;
+  border-radius: 50px;
   padding: 5px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 25px;
+  transition: 0.9s;
 }
 
 .btn-back:hover {
   color: white;
   font-size: 30px;
-  transition: 0.9s;
   background-color: red;
 }
 
