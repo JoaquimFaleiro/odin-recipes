@@ -1,3 +1,4 @@
+/* Geral */
 .container {
   display: flex;
   justify-content: center;
@@ -7,9 +8,19 @@
 }
 
 .title {
-  font-size: 50px;
+  font-size: 60px;
 }
 
+.background-color {
+  background-color: antiquewhite;
+}
+
+.recipes-links {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+/* Buttons */
 .btn-back {
   background-color: green;
   color: white;
@@ -27,11 +38,7 @@
   font-size: 30px;
   background-color: red;
 }
-
-.background-color {
-  background-color: antiquewhite;
-}
-
+/* Recipes styles */
 .color-brownie,
 .nougat,
 .chimarrao {
